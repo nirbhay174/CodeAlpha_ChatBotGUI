@@ -1,2 +1,18 @@
 # CodeAlpha_ChatBotGUI
-Java-based AI Chatbot using NLP for interactive communication. Supports rule-based or ML logic to answer FAQs. Integrated with GUI/web interface for real-time chat. Designed for learning and exploring chatbot development with Java and AI. Part of CodeAlpha Internship Task 3.
+💬 AI Chatbot with GUI (Java Project)
+A Java-based AI chatbot with a graphical user interface for real-time conversation. Uses basic NLP techniques and rule-based or ML logic to answer user queries and FAQs. Designed with Swing for an interactive and user-friendly experience.
+
+✅ Features:
+
+-Java Swing-based GUI
+
+-NLP and rule-based logic
+
+-Responds to common questions
+
+-Real-time interactive chat
+
+-Clean and modular code structure
+
+🔗 Use Case:
+Perfect for students and developers exploring chatbot development with Java, GUI design, and artificial intelligence concepts.
